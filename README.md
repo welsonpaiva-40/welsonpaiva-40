@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Tudo posso naquele que me fortalece."*
+> *"E Jesus, percebendo isso, disse: Por que arrazoais entre vós por não terdes pão, homens de pouca fé?"*
 >
-> — **Filipenses 4:13**
+> — **Mateus 16:8**
 
 </div>
 
