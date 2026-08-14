@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"E Jesus, percebendo isso, disse: Por que arrazoais entre vós por não terdes pão, homens de pouca fé?"*
+> *"Homem e mulher os criou; e os abençoou, e os chamou pelo nome de homem, no dia em que foram criados."*
 >
-> — **Mateus 16:8**
+> — **Gênesis 5:2**
 
 </div>
 
