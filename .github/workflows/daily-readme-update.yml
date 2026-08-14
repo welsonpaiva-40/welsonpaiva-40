@@ -1,0 +1,51 @@
+name: Atualizar Cartões e Versículo Diário
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 6h (UTC)
+  workflow_dispatch: {} # permite rodar manualmente
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar cartão de estatísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=welsonpaiva-40&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B689FF&icon_color=f093fb&text_color=c9d1d9&ring_color=B689FF&locale=pt-br&custom_title=Minhas%20Estat%C3%ADsticas"
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar cartão de linguagens
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=welsonpaiva-40&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B689FF&text_color=c9d1d9&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas"
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Buscar versículo do dia e atualizar README
+        run: node .github/scripts/update-verse.mjs
+
+      - name: Commitar alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg README.md
+          git diff --staged --quiet || git commit -m "chore: atualizar cartões e versículo do dia"
+          git push
