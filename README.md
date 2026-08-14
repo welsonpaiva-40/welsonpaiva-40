@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Homem e mulher os criou; e os abençoou, e os chamou pelo nome de homem, no dia em que foram criados."*
+> *"Mas nem todos deram ouvidos ao evangelho; pois Isaías diz: Senhor, quem deu crédito à nossa mensagem?"*
 >
-> — **Gênesis 5:2**
+> — **Romanos 10:16**
 
 </div>
 
