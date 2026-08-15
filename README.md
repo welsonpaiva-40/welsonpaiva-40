@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Mas nem todos deram ouvidos ao evangelho; pois Isaías diz: Senhor, quem deu crédito à nossa mensagem?"*
+> *"Porque homens insolentes se levantam contra mim, e violentos procuram a minha vida; eles não põem a Deus diante de si."*
 >
-> — **Romanos 10:16**
+> — **Salmos 54:3**
 
 </div>
 
