@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Porque homens insolentes se levantam contra mim, e violentos procuram a minha vida; eles não põem a Deus diante de si."*
+> *"Da mesma boca procede bênção e maldição. Não convém, meus irmãos, que se faça assim."*
 >
-> — **Salmos 54:3**
+> — **Tiago 3:10**
 
 </div>
 
