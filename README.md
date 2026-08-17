@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Da mesma boca procede bênção e maldição. Não convém, meus irmãos, que se faça assim."*
+> *"Esse foi a Pilatos e pediu o corpo de Jesus. Então Pilatos mandou que lhe fosse entregue."*
 >
-> — **Tiago 3:10**
+> — **Mateus 27:58**
 
 </div>
 
