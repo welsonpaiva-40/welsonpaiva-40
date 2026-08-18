@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Esse foi a Pilatos e pediu o corpo de Jesus. Então Pilatos mandou que lhe fosse entregue."*
+> *"assim fará expiação pelo santuário; também fará expiação pela tenda da revelação e pelo altar; igualmente fará expiação e pelos sacerdotes e por todo o povo da congregação."*
 >
-> — **Mateus 27:58**
+> — **Levítico 16:33**
 
 </div>
 
