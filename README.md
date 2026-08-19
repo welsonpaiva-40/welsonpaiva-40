@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"assim fará expiação pelo santuário; também fará expiação pela tenda da revelação e pelo altar; igualmente fará expiação e pelos sacerdotes e por todo o povo da congregação."*
+> *"O Senhor é o meu quinhão; prometo observar as tuas palavras."*
 >
-> — **Levítico 16:33**
+> — **Salmos 119:57**
 
 </div>
 
