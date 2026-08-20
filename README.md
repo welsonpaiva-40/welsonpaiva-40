@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"O Senhor é o meu quinhão; prometo observar as tuas palavras."*
+> *"Porque a mulher casada está ligada pela lei a seu marido enquanto ele viver; mas, se ele morrer, ela está livre da lei do marido."*
 >
-> — **Salmos 119:57**
+> — **Romanos 7:2**
 
 </div>
 
