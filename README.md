@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Porque a mulher casada está ligada pela lei a seu marido enquanto ele viver; mas, se ele morrer, ela está livre da lei do marido."*
+> *"Todas estas coisas falou Jesus às multidões por parábolas, e sem parábolas nada lhes falava;"*
 >
-> — **Romanos 7:2**
+> — **Mateus 13:34**
 
 </div>
 
