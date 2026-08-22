@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Todas estas coisas falou Jesus às multidões por parábolas, e sem parábolas nada lhes falava;"*
+> *"O circuito das montanhas é o seu pasto, e anda buscando tudo o que está verde."*
 >
-> — **Mateus 13:34**
+> — **Jó 39:8**
 
 </div>
 
