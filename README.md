@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"O circuito das montanhas é o seu pasto, e anda buscando tudo o que está verde."*
+> *"Então saíram Moisés e Arão da presença de Faraó; e Moisés clamou ao Senhor por causa das rãs que tinha trazido sobre Faraó."*
 >
-> — **Jó 39:8**
+> — **Êxodo 8:12**
 
 </div>
 
