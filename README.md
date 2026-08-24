@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Então saíram Moisés e Arão da presença de Faraó; e Moisés clamou ao Senhor por causa das rãs que tinha trazido sobre Faraó."*
+> *"o qual também nos capacitou para sermos ministros dum novo pacto, não da letra, mas do espírito; porque a letra mata, mas o espírito vivifica."*
 >
-> — **Êxodo 8:12**
+> — **2 Coríntios 3:6**
 
 </div>
 
