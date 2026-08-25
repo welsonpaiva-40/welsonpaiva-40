@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"o qual também nos capacitou para sermos ministros dum novo pacto, não da letra, mas do espírito; porque a letra mata, mas o espírito vivifica."*
+> *"Pois, se pela tua comida se entristece teu irmão, já não andas segundo o amor. Não faças perecer por causa da tua comida aquele por quem Cristo morreu."*
 >
-> — **2 Coríntios 3:6**
+> — **Romanos 14:15**
 
 </div>
 
