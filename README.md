@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Pois, se pela tua comida se entristece teu irmão, já não andas segundo o amor. Não faças perecer por causa da tua comida aquele por quem Cristo morreu."*
+> *"Assim fez Jacó, e cumpriu a semana de Léia; depois Labão lhe deu por mulher sua filha Raquel."*
 >
-> — **Romanos 14:15**
+> — **Gênesis 29:28**
 
 </div>
 
