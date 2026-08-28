@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Assim fez Jacó, e cumpriu a semana de Léia; depois Labão lhe deu por mulher sua filha Raquel."*
+> *"Subiu o rei à casa do Senhor, e com ele todos os homens de Judá, todos os habitantes de Jerusalém, os sacerdotes, os profetas, e todo o povo, desde o menor até o maior; e leu aos ouvidos deles todas as palavras do livro do pacto, que fora encontrado na casa do Senhor."*
 >
-> — **Gênesis 29:28**
+> — **2 Reis 23:2**
 
 </div>
 
