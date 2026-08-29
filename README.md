@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Subiu o rei à casa do Senhor, e com ele todos os homens de Judá, todos os habitantes de Jerusalém, os sacerdotes, os profetas, e todo o povo, desde o menor até o maior; e leu aos ouvidos deles todas as palavras do livro do pacto, que fora encontrado na casa do Senhor."*
+> *"Melhor é o fim duma coisa do que o princípio; melhor é o paciente do que o arrogante."*
 >
-> — **2 Reis 23:2**
+> — **Eclesiastes 7:8**
 
 </div>
 
