@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Melhor é o fim duma coisa do que o princípio; melhor é o paciente do que o arrogante."*
+> *"Então jurou o rei Zedequias a Jeremias, em segredo, dizendo: Vive o Senhor, que nos fez esta alma, que não te matarei nem te entregarei na mão destes homens que procuram a tua morte."*
 >
-> — **Eclesiastes 7:8**
+> — **Jeremias 38:16**
 
 </div>
 
