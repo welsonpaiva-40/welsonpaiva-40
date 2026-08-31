@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Então jurou o rei Zedequias a Jeremias, em segredo, dizendo: Vive o Senhor, que nos fez esta alma, que não te matarei nem te entregarei na mão destes homens que procuram a tua morte."*
+> *"O Senhor dará por chuva à tua terra pó; do céu descerá sobre ti a poeira, ate que sejas destruído."*
 >
-> — **Jeremias 38:16**
+> — **Deuteronômio 28:24**
 
 </div>
 
