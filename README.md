@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"O Senhor dará por chuva à tua terra pó; do céu descerá sobre ti a poeira, ate que sejas destruído."*
+> *"Pelo que, tendo este ministério, assim como já alcançamos misericórdia, não desfalecemos;"*
 >
-> — **Deuteronômio 28:24**
+> — **2 Coríntios 4:1**
 
 </div>
 
