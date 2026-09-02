@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Pelo que, tendo este ministério, assim como já alcançamos misericórdia, não desfalecemos;"*
+> *"Assim diz o Senhor: No tempo aceitável te ouvi, e no dia da salvação te ajudei; e te guardarei, e te darei por pacto do povo, para restaurares a terra, e lhe dares em herança as herdades assoladas;"*
 >
-> — **2 Coríntios 4:1**
+> — **Isaías 49:8**
 
 </div>
 
