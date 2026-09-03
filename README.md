@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Assim diz o Senhor: No tempo aceitável te ouvi, e no dia da salvação te ajudei; e te guardarei, e te darei por pacto do povo, para restaurares a terra, e lhe dares em herança as herdades assoladas;"*
+> *"Se alguém santificar ao Senhor um campo que tiver comprado, o qual não for parte do campo da sua possessão,"*
 >
-> — **Isaías 49:8**
+> — **Levítico 27:22**
 
 </div>
 
