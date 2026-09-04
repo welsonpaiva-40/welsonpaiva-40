@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Se alguém santificar ao Senhor um campo que tiver comprado, o qual não for parte do campo da sua possessão,"*
+> *"Ao fogo servirás de pasto; o teu sangue estará no meio da terra; não serás mais lembrado; porque eu, o Senhor, o disse."*
 >
-> — **Levítico 27:22**
+> — **Ezequiel 21:32**
 
 </div>
 
