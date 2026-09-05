@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Ao fogo servirás de pasto; o teu sangue estará no meio da terra; não serás mais lembrado; porque eu, o Senhor, o disse."*
+> *"E o Senhor lhe entregou nas mãos a Jeoiaquim, rei de Judá, e uma parte dos vasos da casa de Deus; e ele os levou para a terra de Sinar, para a casa do seu deus; e os pôs na casa do tesouro do seu deus."*
 >
-> — **Ezequiel 21:32**
+> — **Daniel 1:2**
 
 </div>
 
