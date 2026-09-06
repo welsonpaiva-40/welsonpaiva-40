@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"E o Senhor lhe entregou nas mãos a Jeoiaquim, rei de Judá, e uma parte dos vasos da casa de Deus; e ele os levou para a terra de Sinar, para a casa do seu deus; e os pôs na casa do tesouro do seu deus."*
+> *"Respondeu-lhes ele: Eu via Satanás, como raio, cair do céu."*
 >
-> — **Daniel 1:2**
+> — **Lucas 10:18**
 
 </div>
 
