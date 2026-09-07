@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Respondeu-lhes ele: Eu via Satanás, como raio, cair do céu."*
+> *"E eis que um que tinha a semelhança dos filhos dos homens me tocou os lábios; então abri a boca e falei, e disse àquele que estava em pé diante de mim: Senhor meu, por causa da visão sobrevieram-me dores, e não retenho força alguma."*
 >
-> — **Lucas 10:18**
+> — **Daniel 10:16**
 
 </div>
 
