@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"E eis que um que tinha a semelhança dos filhos dos homens me tocou os lábios; então abri a boca e falei, e disse àquele que estava em pé diante de mim: Senhor meu, por causa da visão sobrevieram-me dores, e não retenho força alguma."*
+> *"e as primícias da nossa mas, e as nossas ofertas alçadas, e o fruto de toda sorte de árvores, para as câmaras da casa de nosso Deus; e os dízimos da nossa terra aos levitas; pois eles, os levitas, recebem os dízimos em todas as cidades por onde temos lavoura."*
 >
-> — **Daniel 10:16**
+> — **Neemias 10:37**
 
 </div>
 
