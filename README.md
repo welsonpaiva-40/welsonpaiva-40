@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"e as primícias da nossa mas, e as nossas ofertas alçadas, e o fruto de toda sorte de árvores, para as câmaras da casa de nosso Deus; e os dízimos da nossa terra aos levitas; pois eles, os levitas, recebem os dízimos em todas as cidades por onde temos lavoura."*
+> *"Junto ao termo de Judá, desde a fronteira oriental até a fronteira ocidental, será a oferta que haveis de fazer de vinte e cinco mil canas de largura, e do comprimento de cada uma das porções, desde a fronteira oriental até a fronteira ocidental. O santuário estará no meio dela."*
 >
-> — **Neemias 10:37**
+> — **Ezequiel 48:8**
 
 </div>
 
