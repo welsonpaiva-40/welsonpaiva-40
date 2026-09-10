@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Junto ao termo de Judá, desde a fronteira oriental até a fronteira ocidental, será a oferta que haveis de fazer de vinte e cinco mil canas de largura, e do comprimento de cada uma das porções, desde a fronteira oriental até a fronteira ocidental. O santuário estará no meio dela."*
+> *"E a meu povo ensinarão a distinguir entre o santo e o profano, e o farão discernir entre o impuro e o puro."*
 >
-> — **Ezequiel 48:8**
+> — **Ezequiel 44:23**
 
 </div>
 
