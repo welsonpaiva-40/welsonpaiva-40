@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"E a meu povo ensinarão a distinguir entre o santo e o profano, e o farão discernir entre o impuro e o puro."*
+> *"Sebuel, filho de Gérsom o filho de Moisés, que era chefe dos tesouros."*
 >
-> — **Ezequiel 44:23**
+> — **1 Crônicas 26:24**
 
 </div>
 
