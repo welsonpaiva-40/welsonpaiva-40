@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Sebuel, filho de Gérsom o filho de Moisés, que era chefe dos tesouros."*
+> *"Começou então a dizer ao povo esta parábola: Um homem plantou uma vinha, arrendou-a a uns lavradores, e ausentou-se do país por muito tempo."*
 >
-> — **1 Crônicas 26:24**
+> — **Lucas 20:9**
 
 </div>
 
