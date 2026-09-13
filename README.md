@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Começou então a dizer ao povo esta parábola: Um homem plantou uma vinha, arrendou-a a uns lavradores, e ausentou-se do país por muito tempo."*
+> *"Serão entregues ao poder da espada, servidão de pasto aos chacais."*
 >
-> — **Lucas 20:9**
+> — **Salmos 63:10**
 
 </div>
 
