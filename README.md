@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Serão entregues ao poder da espada, servidão de pasto aos chacais."*
+> *"Com alegria e regozijo serão trazidas; elas entrarão no palácio do rei."*
 >
-> — **Salmos 63:10**
+> — **Salmos 45:15**
 
 </div>
 
