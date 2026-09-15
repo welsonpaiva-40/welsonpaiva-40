@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Com alegria e regozijo serão trazidas; elas entrarão no palácio do rei."*
+> *"A estrada dos retos desvia-se do mal; o que guarda o seu caminho preserva a sua vida."*
 >
-> — **Salmos 45:15**
+> — **Provérbios 16:17**
 
 </div>
 
