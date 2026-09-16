@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"A estrada dos retos desvia-se do mal; o que guarda o seu caminho preserva a sua vida."*
+> *"Os filhos de Tola: Uzi, Refaias, Jeriel, Jamai, lbsão e Semuel, chefes das suas casas paternas, da linhagem de Tola, homens valentes nas suas gerações; o seu número nos dias de Davi foi de vinte e dois mil e seiscentos."*
 >
-> — **Provérbios 16:17**
+> — **1 Crônicas 7:2**
 
 </div>
 
