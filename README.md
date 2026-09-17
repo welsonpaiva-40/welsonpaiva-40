@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Os filhos de Tola: Uzi, Refaias, Jeriel, Jamai, lbsão e Semuel, chefes das suas casas paternas, da linhagem de Tola, homens valentes nas suas gerações; o seu número nos dias de Davi foi de vinte e dois mil e seiscentos."*
+> *"Porventura não se lembrou o Senhor, e não lhe veio à mente o incenso que queimastes nas cidades de Judá e nas ruas de Jerusalém, vós e vossos pais, vossos reis e vossos príncipes, como tambem o povo da terra?"*
 >
-> — **1 Crônicas 7:2**
+> — **Jeremias 44:21**
 
 </div>
 
