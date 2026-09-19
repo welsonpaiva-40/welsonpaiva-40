@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Mas Deus enviou um bicho, no dia seguinte ao subir da alva, o qual feriu a aboboreira, de sorte que esta se secou."*
+> *"Então ensinarei aos transgressores os teus caminhos, e pecadores se converterão a ti."*
 >
-> — **Jonas 4:7**
+> — **Salmos 51:13**
 
 </div>
 
