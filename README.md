@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Então ensinarei aos transgressores os teus caminhos, e pecadores se converterão a ti."*
+> *"Herodes, porém, disse: A João eu mandei degolar; quem é, pois, este a respeito de quem ouço tais coisas? E procurava vê-lo."*
 >
-> — **Salmos 51:13**
+> — **Lucas 9:9**
 
 </div>
 
