@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Herodes, porém, disse: A João eu mandei degolar; quem é, pois, este a respeito de quem ouço tais coisas? E procurava vê-lo."*
+> *"Em ti me alegrarei e exultarei; cantarei louvores ao teu nome, ó Altíssimo;"*
 >
-> — **Lucas 9:9**
+> — **Salmos 9:2**
 
 </div>
 
