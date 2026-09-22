@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Em ti me alegrarei e exultarei; cantarei louvores ao teu nome, ó Altíssimo;"*
+> *"E deixando-os, saiu da cidade para Betânia, e ali passou a noite."*
 >
-> — **Salmos 9:2**
+> — **Mateus 21:17**
 
 </div>
 
