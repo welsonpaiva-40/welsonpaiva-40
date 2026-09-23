@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"E deixando-os, saiu da cidade para Betânia, e ali passou a noite."*
+> *"Então disse Joabe: O Senhor acrescente ao seu povo cem vezes tanto como ele é! Porventura, é rei meu senhor, não são teus os servos de meu senhor? Por que requer isto e meu senhor. Por que traria ele culpa sobre Israel?"*
 >
-> — **Mateus 21:17**
+> — **1 Crônicas 21:3**
 
 </div>
 
