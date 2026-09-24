@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Então disse Joabe: O Senhor acrescente ao seu povo cem vezes tanto como ele é! Porventura, é rei meu senhor, não são teus os servos de meu senhor? Por que requer isto e meu senhor. Por que traria ele culpa sobre Israel?"*
+> *"Se porventura de cinqüenta justos faltarem cinco, destruirás toda a cidade por causa dos cinco? Respondeu ele: Não a destruirei, se eu achar ali quarenta e cinco."*
 >
-> — **1 Crônicas 21:3**
+> — **Gênesis 18:28**
 
 </div>
 
