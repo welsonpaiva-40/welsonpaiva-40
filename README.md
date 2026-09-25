@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Se porventura de cinqüenta justos faltarem cinco, destruirás toda a cidade por causa dos cinco? Respondeu ele: Não a destruirei, se eu achar ali quarenta e cinco."*
+> *"e que tal é a terra, se gorda ou magra; se nela há árvores, ou não; e esforçai-vos, e tomai do fruto da terra. Ora, a estação era a das uvas temporãs."*
 >
-> — **Gênesis 18:28**
+> — **Números 13:20**
 
 </div>
 
