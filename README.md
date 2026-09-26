@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"e que tal é a terra, se gorda ou magra; se nela há árvores, ou não; e esforçai-vos, e tomai do fruto da terra. Ora, a estação era a das uvas temporãs."*
+> *"Perguntou então Jesus aos doze: Quereis vós também retirar-vos?"*
 >
-> — **Números 13:20**
+> — **João 6:67**
 
 </div>
 
