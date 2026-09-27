@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Perguntou então Jesus aos doze: Quereis vós também retirar-vos?"*
+> *"Os seus ossos estão cheios do vigor da sua juventude, mas este se deitará com ele no pó."*
 >
-> — **João 6:67**
+> — **Jó 20:11**
 
 </div>
 
