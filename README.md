@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Os seus ossos estão cheios do vigor da sua juventude, mas este se deitará com ele no pó."*
+> *"quando a ira de Deus se levantou contra eles, e matou os mais fortes deles, e prostrou os escolhidos de Israel."*
 >
-> — **Jó 20:11**
+> — **Salmos 78:31**
 
 </div>
 
