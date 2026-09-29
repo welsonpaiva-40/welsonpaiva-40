@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"quando a ira de Deus se levantou contra eles, e matou os mais fortes deles, e prostrou os escolhidos de Israel."*
+> *"E esta foi a causa por que levantou a mão contra o rei: Salomão tinha edificado a Milo, e cerrado a brecha da cidade de Davi, seu pai."*
 >
-> — **Salmos 78:31**
+> — **1 Reis 11:27**
 
 </div>
 
