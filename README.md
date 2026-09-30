@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"E esta foi a causa por que levantou a mão contra o rei: Salomão tinha edificado a Milo, e cerrado a brecha da cidade de Davi, seu pai."*
+> *"São estes os reis que reinaram na terra de Edom, antes que reinasse rei algum sobre os filhos de Israel."*
 >
-> — **1 Reis 11:27**
+> — **Gênesis 36:30**
 
 </div>
 
