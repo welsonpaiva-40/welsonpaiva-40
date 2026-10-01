@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"São estes os reis que reinaram na terra de Edom, antes que reinasse rei algum sobre os filhos de Israel."*
+> *"Ele, porém, não quis; antes foi encerrá-lo na prisão, até que pagasse a dívida."*
 >
-> — **Gênesis 36:30**
+> — **Mateus 18:30**
 
 </div>
 
