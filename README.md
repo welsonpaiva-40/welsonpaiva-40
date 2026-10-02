@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Ele, porém, não quis; antes foi encerrá-lo na prisão, até que pagasse a dívida."*
+> *"E todas as panelas em Jerusalém e Judá serão consagradas ao Senhor dos exércitos; e todos os que sacrificarem virão, e delas tomarão, e nelas cozerão. Naquele dia não haverá mais cananeu na casa do Senhor dos exércitos."*
 >
-> — **Mateus 18:30**
+> — **Zacarias 14:21**
 
 </div>
 
