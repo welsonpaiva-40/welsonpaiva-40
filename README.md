@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"E todas as panelas em Jerusalém e Judá serão consagradas ao Senhor dos exércitos; e todos os que sacrificarem virão, e delas tomarão, e nelas cozerão. Naquele dia não haverá mais cananeu na casa do Senhor dos exércitos."*
+> *"Respondeu-lhe Jesus: Há tanto tempo que estou convosco, e ainda não me conheces, Felipe? Quem me viu a mim, viu o Pai; como dizes tu: Mostra-nos o Pai?"*
 >
-> — **Zacarias 14:21**
+> — **João 14:9**
 
 </div>
 
