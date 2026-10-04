@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Respondeu-lhe Jesus: Há tanto tempo que estou convosco, e ainda não me conheces, Felipe? Quem me viu a mim, viu o Pai; como dizes tu: Mostra-nos o Pai?"*
+> *"Os céus revelarão a sua iniqüidade, e contra ele a terra se levantará."*
 >
-> — **João 14:9**
+> — **Jó 20:27**
 
 </div>
 
