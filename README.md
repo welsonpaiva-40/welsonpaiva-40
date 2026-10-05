@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Os céus revelarão a sua iniqüidade, e contra ele a terra se levantará."*
+> *"Correu, pois, um moço, etenho dado os levitas a Arão e a Eldade e Medade profetizaram no arraial."*
 >
-> — **Jó 20:27**
+> — **Números 11:27**
 
 </div>
 
