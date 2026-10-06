@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Correu, pois, um moço, etenho dado os levitas a Arão e a Eldade e Medade profetizaram no arraial."*
+> *"Pelo que consumiu os seus dias como um sopo, e os seus anos em repentino terror."*
 >
-> — **Números 11:27**
+> — **Salmos 78:33**
 
 </div>
 
