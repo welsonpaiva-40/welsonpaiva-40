@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Pelo que consumiu os seus dias como um sopo, e os seus anos em repentino terror."*
+> *"Chegaram a Cafarnaum. E estando ele em casa, perguntou-lhes: Que estáveis discutindo pelo caminho?"*
 >
-> — **Salmos 78:33**
+> — **Marcos 9:33**
 
 </div>
 
