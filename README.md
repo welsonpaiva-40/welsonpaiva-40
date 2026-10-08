@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Chegaram a Cafarnaum. E estando ele em casa, perguntou-lhes: Que estáveis discutindo pelo caminho?"*
+> *"E eles sairão atrás de nós, até que os tenhamos afastado da cidade, pois dirão: Fogem diante de nós como dantes. Assim fugiremos diante deles;"*
 >
-> — **Marcos 9:33**
+> — **Josué 8:6**
 
 </div>
 
