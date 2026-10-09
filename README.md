@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"E eles sairão atrás de nós, até que os tenhamos afastado da cidade, pois dirão: Fogem diante de nós como dantes. Assim fugiremos diante deles;"*
+> *"Ali sepultaram a Abraão e a Sara, sua mulher; ali sepultaram a Isaque e a Rebeca, sua mulher; e ali eu sepultei a Léia."*
 >
-> — **Josué 8:6**
+> — **Gênesis 49:31**
 
 </div>
 
