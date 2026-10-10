@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Ali sepultaram a Abraão e a Sara, sua mulher; ali sepultaram a Isaque e a Rebeca, sua mulher; e ali eu sepultei a Léia."*
+> *"Zadoque, filho de Aiuube, e Abimeleque, filho de Abiatar, eram sacerdotes; Sarsa era escrivão;"*
 >
-> — **Gênesis 49:31**
+> — **1 Crônicas 18:16**
 
 </div>
 
