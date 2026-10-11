@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Zadoque, filho de Aiuube, e Abimeleque, filho de Abiatar, eram sacerdotes; Sarsa era escrivão;"*
+> *"Quando eles iam chegando ao outeiro, eis que um grupo de profetas lhes saiu ao encontro; e o Espírito de Deus se apoderou de Saul, e ele profetizou no meio deles."*
 >
-> — **1 Crônicas 18:16**
+> — **1 Samuel 10:10**
 
 </div>
 
