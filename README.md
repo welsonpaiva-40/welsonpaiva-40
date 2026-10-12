@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Quando eles iam chegando ao outeiro, eis que um grupo de profetas lhes saiu ao encontro; e o Espírito de Deus se apoderou de Saul, e ele profetizou no meio deles."*
+> *"Tudo o que anda sobre o ventre, tudo o que anda sobre quatro pés, e tudo o que tem muitos pés, enfim todos os animais rasteiros que se movem sobre a terra, desses não comereis, porquanto são abomináveis."*
 >
-> — **1 Samuel 10:10**
+> — **Levítico 11:42**
 
 </div>
 
