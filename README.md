@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Tudo o que anda sobre o ventre, tudo o que anda sobre quatro pés, e tudo o que tem muitos pés, enfim todos os animais rasteiros que se movem sobre a terra, desses não comereis, porquanto são abomináveis."*
+> *"Tornaram a vir os mensageiros, e disseram: Assim fala Bene-Hadade, dizendo: Enviei-te, na verdade, mensageiros que dissessem: Tu me hás de entregar a tua prata e o teu ouro, as tuas mulheres e os teus filhos;"*
 >
-> — **Levítico 11:42**
+> — **1 Reis 20:5**
 
 </div>
 
