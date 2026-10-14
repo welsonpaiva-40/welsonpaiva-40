@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Tornaram a vir os mensageiros, e disseram: Assim fala Bene-Hadade, dizendo: Enviei-te, na verdade, mensageiros que dissessem: Tu me hás de entregar a tua prata e o teu ouro, as tuas mulheres e os teus filhos;"*
+> *"E um deles lhe disse: certamente tornarei a ti no ano vindouro; e eis que Sara tua mulher terá um filho. E Sara estava escutando à porta da tenda, que estava atrás dele."*
 >
-> — **1 Reis 20:5**
+> — **Gênesis 18:10**
 
 </div>
 
