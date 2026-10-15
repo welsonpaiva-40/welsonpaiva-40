@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"E um deles lhe disse: certamente tornarei a ti no ano vindouro; e eis que Sara tua mulher terá um filho. E Sara estava escutando à porta da tenda, que estava atrás dele."*
+> *"Portanto, quer comais quer bebais, ou façais, qualquer outra coisa, fazei tudo para glória de Deus."*
 >
-> — **Gênesis 18:10**
+> — **1 Coríntios 10:31**
 
 </div>
 
