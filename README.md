@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Portanto, quer comais quer bebais, ou façais, qualquer outra coisa, fazei tudo para glória de Deus."*
+> *"Ora, a carne do sacrifício de ofertas pacíficas por ação de graças se comerá no dia do seu oferecimento; nada se deixará dela até pela manhã."*
 >
-> — **1 Coríntios 10:31**
+> — **Levítico 7:15**
 
 </div>
 
