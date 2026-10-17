@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Ora, a carne do sacrifício de ofertas pacíficas por ação de graças se comerá no dia do seu oferecimento; nada se deixará dela até pela manhã."*
+> *"e os deixei contaminar-se em seus próprios dons, nos quais faziam passar pelo fogo todos os que abrem a madre, para os assolar, a fim de que soubessem que eu sou o Senhor."*
 >
-> — **Levítico 7:15**
+> — **Ezequiel 20:25**
 
 </div>
 
