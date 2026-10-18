@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"e os deixei contaminar-se em seus próprios dons, nos quais faziam passar pelo fogo todos os que abrem a madre, para os assolar, a fim de que soubessem que eu sou o Senhor."*
+> *"dos arvadeus, dos zemareus e dos hamateus."*
 >
-> — **Ezequiel 20:25**
+> — **1 Crônicas 1:16**
 
 </div>
 
