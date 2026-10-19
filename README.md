@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"dos arvadeus, dos zemareus e dos hamateus."*
+> *"perverter o direito do homem perante a face do Altíssimo,"*
 >
-> — **1 Crônicas 1:16**
+> — **Lamentações 3:35**
 
 </div>
 
