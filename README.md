@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"perverter o direito do homem perante a face do Altíssimo,"*
+> *"A sua oferta foi uma salva de prata do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha amassada com azeite, para oferta de cereais;"*
 >
-> — **Lamentações 3:35**
+> — **Números 7:73**
 
 </div>
 
