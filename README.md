@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"A sua oferta foi uma salva de prata do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha amassada com azeite, para oferta de cereais;"*
+> *"Porém, no primeiro ano de Ciro, rei de Babilônia, o rei Ciro baixou decreto para que esta casa de Deus fosse reedificada."*
 >
-> — **Números 7:73**
+> — **Esdras 5:13**
 
 </div>
 
