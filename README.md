@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Porém, no primeiro ano de Ciro, rei de Babilônia, o rei Ciro baixou decreto para que esta casa de Deus fosse reedificada."*
+> *"Quando, pois, tiverdes entrado na terra que o Senhor vos dará, como tem prometido, guardareis este culto."*
 >
-> — **Esdras 5:13**
+> — **Êxodo 12:25**
 
 </div>
 
