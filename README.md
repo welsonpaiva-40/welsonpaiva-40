@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Quando, pois, tiverdes entrado na terra que o Senhor vos dará, como tem prometido, guardareis este culto."*
+> *"Naqueles dias levantou-se Pedro no meio dos irmãos, sendo o número de pessoas ali reunidas cerca de cento e vinte, e disse:"*
 >
-> — **Êxodo 12:25**
+> — **Atos 1:15**
 
 </div>
 
