@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Naqueles dias levantou-se Pedro no meio dos irmãos, sendo o número de pessoas ali reunidas cerca de cento e vinte, e disse:"*
+> *"No mês primeiro, aos catorze do mês, à tardinha, é a páscoa do Senhor."*
 >
-> — **Atos 1:15**
+> — **Levítico 23:5**
 
 </div>
 
