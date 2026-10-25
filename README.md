@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"No mês primeiro, aos catorze do mês, à tardinha, é a páscoa do Senhor."*
+> *"Enquanto Joabe sitiava a cidade, pôs Urias no lugar onde sabia que havia homens valentes."*
 >
-> — **Levítico 23:5**
+> — **2 Samuel 11:16**
 
 </div>
 
