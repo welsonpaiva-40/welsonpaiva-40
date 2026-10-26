@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Enquanto Joabe sitiava a cidade, pôs Urias no lugar onde sabia que havia homens valentes."*
+> *"Filho do homem, levanta uma lamentação sobre o rei de Tiro, e dize-te: Assim diz o Senhor Deus: Tu eras o selo da perfeição, cheio de sabedoria e perfeito em formosura."*
 >
-> — **2 Samuel 11:16**
+> — **Ezequiel 28:12**
 
 </div>
 
