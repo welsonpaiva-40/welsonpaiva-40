@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Filho do homem, levanta uma lamentação sobre o rei de Tiro, e dize-te: Assim diz o Senhor Deus: Tu eras o selo da perfeição, cheio de sabedoria e perfeito em formosura."*
+> *"Erguei as mãos para o santuário, e bendizei ao Senhor."*
 >
-> — **Ezequiel 28:12**
+> — **Salmos 134:2**
 
 </div>
 
