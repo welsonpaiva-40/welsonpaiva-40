@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Erguei as mãos para o santuário, e bendizei ao Senhor."*
+> *"A este ressuscitou Deus ao terceiro dia e lhe concedeu que se manifestasse,"*
 >
-> — **Salmos 134:2**
+> — **Atos 10:40**
 
 </div>
 
