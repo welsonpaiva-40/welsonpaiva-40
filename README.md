@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"A este ressuscitou Deus ao terceiro dia e lhe concedeu que se manifestasse,"*
+> *"Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos:"*
 >
-> — **Atos 10:40**
+> — **Filipenses 1:1**
 
 </div>
 
