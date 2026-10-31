@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Âs famílias dos filhos de Merári, aos demais levitas, deram da tribo de Zebulom, Jocneão e seus arrabaldes, Cartá e seus arrabaldes,"*
+> *"e suceder o sinal ou prodígio de que vos houver falado, e ele disser: Vamos após outros deuses - deuses que nunca conhecestes - e sirvamo-los!"*
 >
-> — **Josué 21:34**
+> — **Deuteronômio 13:2**
 
 </div>
 
