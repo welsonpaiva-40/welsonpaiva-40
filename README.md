@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"e suceder o sinal ou prodígio de que vos houver falado, e ele disser: Vamos após outros deuses - deuses que nunca conhecestes - e sirvamo-los!"*
+> *"Diz o preguiçoso: Um leão está no caminho; um leão está nas ruas."*
 >
-> — **Deuteronômio 13:2**
+> — **Provérbios 26:13**
 
 </div>
 
