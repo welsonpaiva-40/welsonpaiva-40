@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Diz o preguiçoso: Um leão está no caminho; um leão está nas ruas."*
+> *"Pois te restaurarei a saúde e te sararei as feridas, diz o Senhor; porque te chamaram a repudiada, dizendo: É Sião, à qual já ninguém procura."*
 >
-> — **Provérbios 26:13**
+> — **Jeremias 30:17**
 
 </div>
 
