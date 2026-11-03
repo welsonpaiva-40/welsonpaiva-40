@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Pois te restaurarei a saúde e te sararei as feridas, diz o Senhor; porque te chamaram a repudiada, dizendo: É Sião, à qual já ninguém procura."*
+> *"porque os seus pés correm para o mal, e eles se apressam a derramar sangue."*
 >
-> — **Jeremias 30:17**
+> — **Provérbios 1:16**
 
 </div>
 
