@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"porque os seus pés correm para o mal, e eles se apressam a derramar sangue."*
+> *"Olha para os meus inimigos, porque são muitos e me odeiam com ódio cruel."*
 >
-> — **Provérbios 1:16**
+> — **Salmos 25:19**
 
 </div>
 
