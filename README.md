@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Olha para os meus inimigos, porque são muitos e me odeiam com ódio cruel."*
+> *"Assim tornou Moisés ao Senhor, e disse: Oh! este povo cometeu um grande pecado, fazendo para si um deus de ouro."*
 >
-> — **Salmos 25:19**
+> — **Êxodo 32:31**
 
 </div>
 
