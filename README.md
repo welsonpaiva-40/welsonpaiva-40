@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Assim tornou Moisés ao Senhor, e disse: Oh! este povo cometeu um grande pecado, fazendo para si um deus de ouro."*
+> *"Se ela se estender na pele, o sacerdote o declarará imundo; é praga."*
 >
-> — **Êxodo 32:31**
+> — **Levítico 13:22**
 
 </div>
 
