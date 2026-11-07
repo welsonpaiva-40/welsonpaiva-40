@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Se ela se estender na pele, o sacerdote o declarará imundo; é praga."*
+> *"Não descobrirás a nudez da mulher de teu pai; é nudez de teu pai."*
 >
-> — **Levítico 13:22**
+> — **Levítico 18:8**
 
 </div>
 
