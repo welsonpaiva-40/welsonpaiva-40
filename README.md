@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Não descobrirás a nudez da mulher de teu pai; é nudez de teu pai."*
+> *"Their pillars were four, and their sockets four, of brass; their hooks of silver, and the overlaying of their capitals, and their fillets, of silver."*
 >
-> — **Levítico 18:8**
+> — **Exodus 38:19**
 
 </div>
 
