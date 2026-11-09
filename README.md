@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Their pillars were four, and their sockets four, of brass; their hooks of silver, and the overlaying of their capitals, and their fillets, of silver."*
+> *"and with them Heman and Jeduthun, and the rest who were chosen, who were mentioned by name, to give thanks to Yahweh, because his loving kindness endures forever;"*
 >
-> — **Exodus 38:19**
+> — **1 Chronicles 16:41**
 
 </div>
 
