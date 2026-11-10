@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"and with them Heman and Jeduthun, and the rest who were chosen, who were mentioned by name, to give thanks to Yahweh, because his loving kindness endures forever;"*
+> *"you shall set apart three cities for yourselves in the middle of your land, which Yahweh your God gives you to possess it."*
 >
-> — **1 Chronicles 16:41**
+> — **Deuteronomy 19:2**
 
 </div>
 
