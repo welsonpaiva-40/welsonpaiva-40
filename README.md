@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"you shall set apart three cities for yourselves in the middle of your land, which Yahweh your God gives you to possess it."*
+> *"And if by grace, then it is no longer of works; otherwise grace is no longer grace. But if it is of works, it is no longer grace; otherwise work is no longer work."*
 >
-> — **Deuteronomy 19:2**
+> — **Romans 11:6**
 
 </div>
 
