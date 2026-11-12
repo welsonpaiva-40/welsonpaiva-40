@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"And if by grace, then it is no longer of works; otherwise grace is no longer grace. But if it is of works, it is no longer grace; otherwise work is no longer work."*
+> *"I know Ephraim, and Israel is not hidden from me; for now, Ephraim, you have played the prostitute. Israel is defiled."*
 >
-> — **Romans 11:6**
+> — **Hosea 5:3**
 
 </div>
 
