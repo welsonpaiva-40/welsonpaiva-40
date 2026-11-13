@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"I know Ephraim, and Israel is not hidden from me; for now, Ephraim, you have played the prostitute. Israel is defiled."*
+> *"For this is how the holy women before, who hoped in God also adorned themselves, being in subjection to their own husbands:"*
 >
-> — **Hosea 5:3**
+> — **1 Peter 3:5**
 
 </div>
 
