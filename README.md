@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"For this is how the holy women before, who hoped in God also adorned themselves, being in subjection to their own husbands:"*
+> *"There shall be a great cry throughout all the land of Egypt, such as there has not been, nor shall be any more."*
 >
-> — **1 Peter 3:5**
+> — **Exodus 11:6**
 
 </div>
 
