@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"There shall be a great cry throughout all the land of Egypt, such as there has not been, nor shall be any more."*
+> *"Yahweh of Armies says: “Yet again there will be in this place, which is waste, without man and without animal, and in all its cities, a habitation of shepherds causing their flocks to lie down."*
 >
-> — **Exodus 11:6**
+> — **Jeremiah 33:12**
 
 </div>
 
