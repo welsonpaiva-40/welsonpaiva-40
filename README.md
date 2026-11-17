@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"sow fields, plant vineyards, and reap the fruits of increase."*
+> *"Don’t lift up your horn on high. Don’t speak with a stiff neck.”"*
 >
-> — **Psalms 107:37**
+> — **Psalms 75:5**
 
 </div>
 
