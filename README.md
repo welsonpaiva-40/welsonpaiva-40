@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Don’t lift up your horn on high. Don’t speak with a stiff neck.”"*
+> *"“‘“But when the people of the land come before Yahweh in the appointed feasts, he who enters by the way of the north gate to worship shall go out by the way of the south gate; and he who enters by the way of the south gate shall go out by the way of the north gate. He shall not return by the way of the gate by which he came in, but shall go out straight before him."*
 >
-> — **Psalms 75:5**
+> — **Ezekiel 46:9**
 
 </div>
 
