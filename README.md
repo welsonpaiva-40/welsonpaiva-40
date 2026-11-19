@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"“‘“But when the people of the land come before Yahweh in the appointed feasts, he who enters by the way of the north gate to worship shall go out by the way of the south gate; and he who enters by the way of the south gate shall go out by the way of the north gate. He shall not return by the way of the gate by which he came in, but shall go out straight before him."*
+> *"Zilpah, Leah’s servant, bore Jacob a son."*
 >
-> — **Ezekiel 46:9**
+> — **Genesis 30:10**
 
 </div>
 
