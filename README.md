@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Zilpah, Leah’s servant, bore Jacob a son."*
+> *"Behold, your troops among you are women. The gates of your land are set wide open to your enemies. The fire has devoured your bars."*
 >
-> — **Genesis 30:10**
+> — **Nahum 3:13**
 
 </div>
 
