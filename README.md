@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Behold, your troops among you are women. The gates of your land are set wide open to your enemies. The fire has devoured your bars."*
+> *"Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah."*
 >
-> — **Nahum 3:13**
+> — **1 Kings 16:17**
 
 </div>
 
