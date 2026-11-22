@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah."*
+> *"But they insisted, saying, “He stirs up the people, teaching throughout all Judea, beginning from Galilee even to this place.”"*
 >
-> — **1 Kings 16:17**
+> — **Luke 23:5**
 
 </div>
 
