@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"But they insisted, saying, “He stirs up the people, teaching throughout all Judea, beginning from Galilee even to this place.”"*
+> *"Sing to Yahweh, all the earth! Display his salvation from day to day."*
 >
-> — **Luke 23:5**
+> — **1 Chronicles 16:23**
 
 </div>
 
