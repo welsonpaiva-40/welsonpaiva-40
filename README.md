@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Sing to Yahweh, all the earth! Display his salvation from day to day."*
+> *"Azariah the chief priest, and all the priests, looked at him, and behold, he was leprous in his forehead, and they thrust him out quickly from there. Yes, he himself also hurried to go out, because Yahweh had struck him."*
 >
-> — **1 Chronicles 16:23**
+> — **2 Chronicles 26:20**
 
 </div>
 
