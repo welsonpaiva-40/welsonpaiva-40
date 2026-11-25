@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"Azariah the chief priest, and all the priests, looked at him, and behold, he was leprous in his forehead, and they thrust him out quickly from there. Yes, he himself also hurried to go out, because Yahweh had struck him."*
+> *"They wandered in the wilderness in a desert way. They found no city to live in."*
 >
-> — **2 Chronicles 26:20**
+> — **Psalms 107:4**
 
 </div>
 
