@@ -108,9 +108,9 @@ sobre_mim:
 
 <div align="center">
 
-> *"A third part you shall burn in the fire in the middle of the city, when the days of the siege are fulfilled. You shall take a third part, and strike with the sword around it. A third part you shall scatter to the wind, and I will draw out a sword after them."*
+> *"Tell the land of Israel, ‘Yahweh says: “Behold, I am against you, and will draw my sword out of its sheath, and will cut off from you the righteous and the wicked."*
 >
-> — **Ezekiel 5:2**
+> — **Ezekiel 21:3**
 
 </div>
 
